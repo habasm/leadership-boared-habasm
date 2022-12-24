@@ -39,7 +39,7 @@
 
 
 
-**[Leaderboard]**  is a small application that displays scores submitted by different players. It also allows you to submit your score thanks to the external Leaderboard API service.
+**[Leaderboard]**  is a small application that displays scores submitted by different players. It also allows you to submit your score thanks to the external Leaderboard API service. The application is also styled with bootstrap and CSS beyond javascript.
 
 ## 🛠 Built With <a name="built-with">
   - HTML
